@@ -1,0 +1,49 @@
+{
+    "players": [
+        {
+            "id": 1,
+            "surname": "Zidane",
+            "full_name": "Zinedine Zidane",
+            "short_name": "Z. Zidane",
+            "other_names": "Zinedine",
+            "jumper_number": 10,
+            "position_description": "God"
+        },
+        {
+            "id": 2,
+            "surname": "Martins",
+            "full_name": "Corentin Martins",
+            "short_name": "C. Martins",
+            "other_names": "Corentin",
+            "jumper_number": 10,
+            "position_description": "Centre"
+        },
+    	{
+            "id": 3,
+            "surname": "Henry",
+            "full_name": "Thierry Henry",
+            "short_name": "T. Henry",
+            "other_names": "Thierry",
+            "jumper_number": 14,
+            "position_description": "Forward"
+        },
+    	{
+            "id": 4,
+            "surname": "Djorkaeff",
+            "full_name": "Youri Djorkaeff",
+            "short_name": "Y. Djorkaeff",
+            "other_names": "Youri",
+            "jumper_number": 6,
+            "position_description": "Centre"
+        },
+    	{
+            "id": 5,
+            "surname": "Diomede",
+            "full_name": "Bernard Diomede",
+            "short_name": "B. Diomede",
+            "other_names": "Bernard",
+            "jumper_number": 13,
+            "position_description": "Forward"
+        }
+    ]
+}

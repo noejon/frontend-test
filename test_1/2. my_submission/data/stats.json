@@ -1,0 +1,29 @@
+{
+    "player_stats": [
+        {
+            "id": 1,
+            "matches": "614",
+            "goals": "126"
+        },
+        {
+            "id": 3,
+            "matches": "704",
+            "goals": "335"
+        },
+        {
+            "id": 4,
+            "matches": "666",
+            "goals": "224"
+        },
+        {
+            "id": 2,
+            "matches": "534",
+            "goals": "81"
+        },
+        {
+            "id": 6,
+            "matches": "504",
+            "goals": "265"
+        }
+    ]
+}
