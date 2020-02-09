@@ -1,0 +1,27 @@
+/* PUT YOUR STYLES HERE */
+
+/* My changes */
+
+.module-content:hover .hover-text {
+    background-color: rgba(0,0,255,0.6);
+    display: contents;
+}
+
+.hover-text {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display:none;
+}
+
+#content .hover-text p {
+    padding: 30px;
+    color: #fff;
+    font-size: 20px;
+}
+
+/* end of changes */

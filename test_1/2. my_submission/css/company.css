@@ -1,0 +1,171 @@
+body {
+    color: #272727;
+    font-family: 'Antenna', sans-serif !important;
+    font-size: 12px !important;
+    background: #fafafa;
+    position: relative;
+    background: #eee;
+}
+
+#header #header-content {
+    position: relative;
+    height: 124px !important;
+}
+
+#header-content, #nav, #page, #section-header-nav, #mm-content, #footer .footer-content, .site-search {
+    width: 1000px;
+    margin: 0 auto;
+    clear: both;
+}
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    background: transparent;
+    border: 0;
+    font-size: 100%;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+
+body.company.homepage #header {
+    top: 0 !important;
+    display: block;
+    position: static !important;
+}
+
+.homepage #header {
+    top: 36px;
+}
+
+body.company #header, #header {
+    background-color: #324757;
+}
+
+#header {
+    top: 76px;
+    height: 124px;
+}
+
+#navandsearch, #header, #section-header-sticky-wrapper, #footer, #wrapper-megamenu {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#content h2 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 50px 0;
+}
+
+#content h3:first-child {
+    margin-top: 0;
+}
+
+body.company.homepage .module .module-header h3, body.comapny.homepage .module .module-border {
+    border: none !important;
+}
+
+.module .module-header h3, .tabbed ul.tab-set li a, .group .group-header h2 {
+    padding: 17px;
+    font-size: 1.6em;
+    font-weight: bold;
+    border-width: 0 1px 1px 1px;
+    border-style: solid;
+    border-color: #eee;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+#page {
+    width: 985px;
+}
+
+#header-content, #nav, #page, #section-header-nav, #mm-content, #footer .footer-content, .site-search {
+    width: 1000px;
+    margin: 0 auto;
+    clear: both;
+}
+
+.instructions {
+    padding: 20px;
+    background: #fff;
+    overflow: hidden;
+}
+
+body.company.homepage .module {
+    margin-bottom: 20px;
+}
+
+.module {
+    float: left;
+    margin-right: 30px;
+}
+
+.module {
+    font-size: 12px;
+    line-height: 1.35em;
+    overflow: hidden;
+    margin-bottom: 28px;
+    position: relative;
+    background-color: #fff;
+}
+
+.module {
+    width: 316px;
+}
+
+.module .module-header {
+    border-color: #324757;
+}
+
+.homepage .group-header, .homepage .module-header {
+    background-color: #ededed;
+}
+
+.module .module-header {
+    border-width: 4px 0 0 0;
+    border-style: solid;
+}
+
+.module .module-border {
+    border-width: 0 1px;
+    border-style: solid;
+    border-color: #eee;
+    display: inline-block;
+    width: 314px;
+}
+
+.module .module-content {
+    position: relative;
+}
+
+.module-content table {
+    font-size: 0.9em;
+    width: 100%;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.module-content table th {
+    border: 0;
+    white-space: nowrap;
+}
+
+.module-content table th, .module-content table td {
+    border: 1px solid #eee;
+    border-style: solid none;
+    padding: 2px 5px;
+    text-align: left;
+}
+
+#wrapper {
+    background: #eee;
+}
